@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Analyzer
 
 An NLP-based tool that analyzes resumes and provides ATS scoring,
@@ -70,3 +71,6 @@ Streamlit Dashboard (displays results)
 - Section detection depends on resume formatting (creative/graphic resumes may confuse it)
 - Skill matching is currently exact-match; could be improved with embedding-based fuzzy matching
 - Grammar checking is rule-based; could add an LLM pass for tone/impact suggestions
+=======
+# resume-analyzer
+>>>>>>> 5e21dc71368946ae071e09802b43c68d8c0c20c8
